@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1525013016 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q3\funcionario.cpp
+	"Funcionario.h"
+
+1525013016 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q3\funcionario.h
+	<string>
+
+1525013016 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q3\consultor.cpp
+	"Consultor.h"
+	<iostream>
+	<string>
+
+1525013016 c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q3\consultor.h
+	"Funcionario.h"
+
+1524829975 source:c:\users\cliente\desktop\backup\programação em c++\roteiro 4\q3\main.cpp
+	<iostream>
+	"Funcionario.h"
+	"Consultor.h"
+
