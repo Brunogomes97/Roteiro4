@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1525629329 source:c:\users\cliente\desktop\q4\main.cpp
+	<iostream>
+	"Trabalhador.h"
+	"TrabalhadorPorHora.h"
+	"TrabalhadorAssalariado.h"
+
+1525628960 source:c:\users\cliente\desktop\q4\src\trabalhadorassalariado.cpp
+	"TrabalhadorAssalariado.h"
+
+1525629043 c:\users\cliente\desktop\q4\include\trabalhadorassalariado.h
+	"Trabalhador.h"
+
+1525629329 source:c:\users\cliente\desktop\q4\src\trabalhadorporhora.cpp
+	"TrabalhadorPorHora.h"
+
+1525627528 c:\users\cliente\desktop\q4\include\trabalhadorporhora.h
+	"Trabalhador.h"
+
+1525628370 source:c:\users\cliente\desktop\q4\src\trabalhador.cpp
+	"Trabalhador.h"
+
+1525628370 c:\users\cliente\desktop\q4\include\trabalhador.h
+	<string>
+	<stdio.h>
+
