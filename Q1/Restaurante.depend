@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1525030382 source:c:\users\aluno\desktop\conteudo-lp--master\restaurante\main.cpp
+	<iostream>
+	"Mesarestaurante.h"
+
+1524666604 c:\users\aluno\desktop\conteudo-lp--master\restaurante\pedido.h
+	<string>
+
+1525030219 source:c:\users\aluno\desktop\conteudo-lp--master\restaurante\pedido.cpp
+	"Pedido.h"
+
+1525030382 source:c:\users\aluno\desktop\conteudo-lp--master\restaurante\mesarestaurante.cpp
+	"Mesarestaurante.h"
+	<iostream>
+
+1525030718 c:\users\aluno\desktop\conteudo-lp--master\restaurante\mesarestaurante.h
+	"Pedido.h"
+
+1525285028 source:c:\users\aluno\desktop\lp1\restaurante\main.cpp
+	<iostream>
+	"Mesarestaurante.h"
+	<string>
+	"Restaurantecaseiro.h"
+
+1525283124 c:\users\aluno\desktop\lp1\restaurante\mesarestaurante.h
+	"Pedido.h"
+
+1524666604 c:\users\aluno\desktop\lp1\restaurante\pedido.h
+	<string>
+
+1525283037 source:c:\users\aluno\desktop\lp1\restaurante\mesarestaurante.cpp
+	"Mesarestaurante.h"
+	<iostream>
+
+1525283839 source:c:\users\aluno\desktop\lp1\restaurante\pedido.cpp
+	"Pedido.h"
+
+1525030423 source:c:\users\aluno\desktop\lp1\restaurante\src\restaurante.cpp
+	"Restaurante.h"
+
+1525281073 c:\users\aluno\desktop\lp1\restaurante\include\restaurante.h
+	"../Mesarestaurante.h"
+
+1525283986 source:c:\users\aluno\desktop\lp1\restaurante\restaurantecaseiro.cpp
+	"Restaurantecaseiro.h"
+
+1525283896 c:\users\aluno\desktop\lp1\restaurante\restaurantecaseiro.h
+	"Mesarestaurante.h"
+
+1525889345 source:c:\users\aluno\desktop\restaurante\main.cpp
+	<iostream>
+	"Mesarestaurante.h"
+	<string>
+	"Restaurantecaseiro.h"
+
+1525283124 c:\users\aluno\desktop\restaurante\mesarestaurante.h
+	"Pedido.h"
+
+1524666604 c:\users\aluno\desktop\restaurante\pedido.h
+	<string>
+
+1525638287 c:\users\aluno\desktop\restaurante\restaurantecaseiro.h
+	"Mesarestaurante.h"
+
+1525638287 source:c:\users\aluno\desktop\restaurante\mesarestaurante.cpp
+	"Mesarestaurante.h"
+	<iostream>
+
+1525283839 source:c:\users\aluno\desktop\restaurante\pedido.cpp
+	"Pedido.h"
+
+1525030423 source:c:\users\aluno\desktop\restaurante\src\restaurante.cpp
+	"Restaurante.h"
+
+1525889685 source:c:\users\aluno\desktop\restaurante\restaurantecaseiro.cpp
+	"Restaurantecaseiro.h"
+	"iostream"
+
